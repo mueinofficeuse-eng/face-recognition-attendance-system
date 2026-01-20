@@ -1,6 +1,9 @@
 # Face Attendance System Workflow
 
-![Architecture Workflow](attendance_system_workflow.png)
+![Simplified Workflow](attendance_system_workflow.png)
+
+## System Architecture
+![Detailed Technical Architecture](detailed_architecture.png)
 
 ## Overview
 This project is an automated Face Attendance System powered by AWS. It leverages serverless architecture to provide a seamless experience for both employees and administrators.
